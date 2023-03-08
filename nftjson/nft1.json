@@ -1,0 +1,17 @@
+{
+  "name": "Smart Platform by Mirror World",
+  "symbol": "PAP",
+  "description": "Genesis Passport",
+  "image": "https://i.ibb.co/Tcj3B68/Screenshot-2.png",
+  "seller_fee_basis_points": 2,
+  "collection": {
+    "name": "Passport",
+    "family": "Comming soon"
+  },
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ]
+}
