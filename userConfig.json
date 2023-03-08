@@ -1,10 +1,10 @@
 {
-  "auctionHouse": "Please enter your Auction House Address",
-  "collections": ["Please enter your Collection ID"],
-  "xApiKey": "Please enter your API Key",
-  "serviceFee": "Please enter your service fee (Recommended 4.25)",
-  "currencyOption": "Please enter your payment token",
-  "name": "Please enter your storefront name",
-  "logo": "Please enter your logo image URL",
-  "network": "Please enter your selected network "
+  "auctionHouse": "b9QF9YgCiEJtZjH2u2F3pkmbeF4dZPnLHN2oxdMSK2k",
+  "collections": ["bG4LQCAk8ZoTstB6WY5qh67cekNFuzv5G9USEuiaWQU"],
+  "xApiKey": "mw_5wf5Lpeifv9WNl6LVKmn4eI4AfVVPkRXRiC",
+  "serviceFee": "4.25",
+  "currencyOption": "SOL",
+  "name": "World of Souls",
+  "logo": "https://i.ibb.co/mCRYbrM/output.jpg",
+  "network": "testnet"
 }
